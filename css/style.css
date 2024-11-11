@@ -53,18 +53,23 @@ body {
 }
 
 .date {
+  padding-top: 12px;
   color: #666;
   font-size: 0.9em;
 }
 
 h2 {
+  padding-top: 12px;
   font-size: 1.5em;
   margin: 10px 0;
 }
 
 .description {
-  font-size: 0.9em;
-  color: #333;
+  font-size: 16px;
+  color: #7f7f7f;
+  font-weight: 500px;
+  line-height: 24px;
+  padding-top: 12px;
 }
 
 .author {
