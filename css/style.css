@@ -65,11 +65,11 @@ h2 {
 }
 
 .description {
-  font-size: 16px;
-  color: #7f7f7f;
   font-weight: 500px;
   line-height: 24px;
   padding-top: 12px;
+  font-size: 16px;
+  color: #7f7f7f;
 }
 
 .author {
